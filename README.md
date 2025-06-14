@@ -1,6 +1,6 @@
-Task : ERP Inventory & Order Management
-Task 1 (Backend - Django)
-Scenario:
+ERP Inventory & Order Management
+
+(Backend - Django)
 Develop a basic Inventory & Order Management API for an ERP system.
 Requirements:
 1.	Create a Django REST Framework API for: 
@@ -15,8 +15,8 @@ o	POST /orders - Place an order (updates stock).
 o	GET /orders - List all orders.
 4.	Implement basic validation & exception handling.
 ________________________________________
-Task 2 (Frontend - Vue.js)
-Scenario:
+
+(Frontend - Vue.js)
 Build an Inventory & Order Management UI.
 Requirements:
 1.	Product List Page: 
